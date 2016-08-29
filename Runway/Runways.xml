@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Class>
+	<Runway>
+		<L name = "09L">
+			<TORA>3902</TORA>
+			<TODA>3902</TODA>
+			<ASDA>3902</ASDA>
+			<LDA>3595</LDA>
+			<Dis_Thres>306</Dis_Thres>
+		</L>
+		<R name = "27R">
+			<Name>27R</Name>
+			<TORA>3884</TORA>
+			<TODA>3962</TODA>
+			<ASDA>3884</ASDA>
+			<LDA>3884</LDA>
+			<Dis_Thres>0</Dis_Thres>
+		</R>
+	</Runway>
+	<Runway>
+		<L name = "27L">
+			<TORA>3660</TORA>
+			<TODA>3660</TODA>
+			<ASDA>3660</ASDA>
+			<LDA>3660</LDA>
+			<Dis_Thres>0</Dis_Thres>
+		</L>
+		<R name = "09R">
+			<Name>27R</Name>
+			<TORA>3660</TORA>
+			<TODA>3660</TODA>
+			<ASDA>3660</ASDA>
+			<LDA>3353</LDA>
+			<Dis_Thres>307</Dis_Thres>
+		</R>
+	</Runway>
+</Class>

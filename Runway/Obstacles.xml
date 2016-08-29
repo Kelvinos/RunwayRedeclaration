@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Class>
+	<Obstacle name = "Obs_1">
+		<Height>12</Height>
+		<Distance_from_LThres>-50</Distance_from_LThres>
+		<Distance_from_RThres>3646</Distance_from_RThres>
+		<Distance_from_Centre>0</Distance_from_Centre>
+	</Obstacle>
+	<Obstacle name = "Obs_2">
+		<Height>25</Height>
+		<Distance_from_LThres>500</Distance_from_LThres>
+		<Distance_from_RThres>2853</Distance_from_RThres>
+		<Distance_from_Centre>-20</Distance_from_Centre>
+	</Obstacle>
+	<Obstacle name = "Obs_3">
+		<Height>15</Height>
+		<Distance_from_LThres>150</Distance_from_LThres>
+		<Distance_from_RThres>3203</Distance_from_RThres>
+		<Distance_from_Centre>60</Distance_from_Centre>
+	</Obstacle>
+</Class>
